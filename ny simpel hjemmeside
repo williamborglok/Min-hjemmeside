@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+  <meta charset="UTF-8">
+  <title>Mit Simpelt Website</title>
+</head>
+<body bgcolor="#e6f2ff">
+  <!-- Baggrundsfarve: lys blå -->
+
+  <h1>Anders</h1>
+  <!-- Stor overskrift med fornavn -->
+
+  <p>Her er et billede med et stort smil:</p>
+  <img 
+    src="https://img.pixers.pics/pho_wat(s3:700/FO/44/09/63/51/700_FO44096351_dd0038458acd370e10bb879d83f767ee.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/tynde-og-lette-gardiner-stort-smil-smil.jpg.jpg" 
+    alt="Stort smil billede" 
+    width="400">
+  <!-- Billedet vises med bredde 400px -->
+
+</body>
+</html>
